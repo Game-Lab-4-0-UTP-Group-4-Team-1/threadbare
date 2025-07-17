@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://d26kwoychn2ol"
+path="res://.godot/imported/intro.dialogue-e54e9966715713df69ebcbddb5566a34.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/dentrodelumbral/intro.dialogue"
+dest_files=["res://.godot/imported/intro.dialogue-e54e9966715713df69ebcbddb5566a34.tres"]
+
+[params]
+
+defaults=true

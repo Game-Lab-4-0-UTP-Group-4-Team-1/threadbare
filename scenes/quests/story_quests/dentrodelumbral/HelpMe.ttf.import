@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://d36ko0npd7ls"
-path="res://.godot/imported/HelpMe.ttf-0e0bf3ce21730ec612a5cf815096840a.fontdata"
+uid="uid://pigv662wjvo"
+path="res://.godot/imported/HelpMe.ttf-e3ebd96b7aa24e8526a6f72271b78364.fontdata"
 
 [deps]
 
-source_file="res://HelpMe.ttf"
-dest_files=["res://.godot/imported/HelpMe.ttf-0e0bf3ce21730ec612a5cf815096840a.fontdata"]
+source_file="res://scenes/quests/story_quests/dentrodelumbral/HelpMe.ttf"
+dest_files=["res://.godot/imported/HelpMe.ttf-e3ebd96b7aa24e8526a6f72271b78364.fontdata"]
 
 [params]
 

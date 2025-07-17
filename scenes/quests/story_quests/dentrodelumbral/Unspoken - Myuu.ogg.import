@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://6itlmmybfans"
+path="res://.godot/imported/Unspoken - Myuu.ogg-33a564fcc873904f61a8f6f472ddcf7b.oggvorbisstr"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/dentrodelumbral/Unspoken - Myuu.ogg"
+dest_files=["res://.godot/imported/Unspoken - Myuu.ogg-33a564fcc873904f61a8f6f472ddcf7b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

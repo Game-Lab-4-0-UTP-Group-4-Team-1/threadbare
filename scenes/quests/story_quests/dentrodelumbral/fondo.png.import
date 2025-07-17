@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d4bl4nm711fu1"
-path="res://.godot/imported/end_city.png-27d5fbbd6a694b2556d1879b4d298fc0.ctex"
+uid="uid://byba53xbmg40u"
+path="res://.godot/imported/fondo.png-2f40d353c8be5869c9f566584ea76623.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/first_party/intro/dentrodelumbralintro/end_city.png"
-dest_files=["res://.godot/imported/end_city.png-27d5fbbd6a694b2556d1879b4d298fc0.ctex"]
+source_file="res://scenes/quests/story_quests/dentrodelumbral/fondo.png"
+dest_files=["res://.godot/imported/fondo.png-2f40d353c8be5869c9f566584ea76623.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cqm63nop7726d"
-path="res://.godot/imported/fondo.png-ba70bfea8a1397320d702391fbab30ab.ctex"
+uid="uid://2qp6wil5bs16"
+path="res://.godot/imported/monster_away.png-4b6790105c853e79227068fbaab56e52.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://fondo.png"
-dest_files=["res://.godot/imported/fondo.png-ba70bfea8a1397320d702391fbab30ab.ctex"]
+source_file="res://scenes/quests/story_quests/dentrodelumbral/monster_away.png"
+dest_files=["res://.godot/imported/monster_away.png-4b6790105c853e79227068fbaab56e52.ctex"]
 
 [params]
 

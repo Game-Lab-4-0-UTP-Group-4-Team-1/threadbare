@@ -1,7 +1,7 @@
 [gd_scene load_steps=29 format=4 uid="uid://bwrv0ir77l7c7"]
 
 [ext_resource type="Script" uid="uid://dnp0tjloec2d7" path="res://scenes/game_logic/stealth_game_logic.gd" id="1_u8ril"]
-[ext_resource type="TileSet" uid="uid://07fq3rspk8ia" path="res://scenes/tileset.tres" id="2_47hk3"]
+[ext_resource type="TileSet" uid="uid://07fq3rspk8ia" path="res://scenes/quests/story_quests/dentrodelumbral/tileset.tres" id="2_47hk3"]
 [ext_resource type="PackedScene" uid="uid://iu2q66clupc6" path="res://scenes/game_elements/characters/player/player.tscn" id="3_654ne"]
 [ext_resource type="PackedScene" uid="uid://d37mebu7atru7" path="res://scenes/game_elements/characters/enemies/guard/guard.tscn" id="4_cjtxq"]
 [ext_resource type="PackedScene" uid="uid://dua6mynlw2ptw" path="res://scenes/game_elements/props/checkpoint/checkpoint.tscn" id="5_hym74"]
